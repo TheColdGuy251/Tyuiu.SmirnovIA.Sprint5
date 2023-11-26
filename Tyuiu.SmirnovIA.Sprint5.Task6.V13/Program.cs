@@ -16,7 +16,7 @@ namespace Tyuiu.SmirnovIA.Sprint5.Task6.V13
             Console.Title = "Спринт #5 | Выполнил: Смирнов И. А. | ИИПб-23-3";
 
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #6                                                               *");
+            Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Обработка текстовых файлов                                        *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #13                                                             *");
